@@ -1,7 +1,6 @@
 package ru.otus.java.basic;
-import java.util.Scanner;
 
-public class PracticeOneGuessNumber {
+public class PracticeOne {
     public static void main(String[] args) {
 
     }
